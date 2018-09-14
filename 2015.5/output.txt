@@ -1,0 +1,4 @@
+Caso #1: 1235 BBB
+Caso #2: 0000 BCB
+Caso #3: 0000 BBF
+Caso #4: FINAL

@@ -1,0 +1,6 @@
+Caso #1: X gano 
+Caso #2: Draw 
+Caso #3: El juego no ha terminado 
+Caso #4: O gano 
+Caso #5: O gano 
+Caso #6: O gano 
