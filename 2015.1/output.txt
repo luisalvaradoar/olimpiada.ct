@@ -1,0 +1,6 @@
+Caso #1: [E,A]
+Caso #2: [R,I,R]
+Caso #3: [F,D,T]
+Caso #4: [Z,E,R,A]
+Caso #5: []
+Caso #6: [F,D,T]
